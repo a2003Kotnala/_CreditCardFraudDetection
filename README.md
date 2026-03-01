@@ -1,4 +1,4 @@
-# Codsoft_CreditCardFraudDetection
+# CreditCardFraudDetection
 ***Credit Card Fraud Detection 🛡️***
 
 This project is a Credit Card Fraud Detection system developed using machine learning and data analysis techniques. Its primary objective is to identify fraudulent credit card transactions among a vast number of legitimate ones. Credit card fraud detection is crucial for ensuring the security of financial transactions and protecting customers from unauthorized charges. 💳
